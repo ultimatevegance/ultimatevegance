@@ -1,6 +1,6 @@
 # Hi, I'm JustusWoolworth 👋
 
-Mobile engineer focused on building high-quality cross-platform and native apps.
+Full-stack mobile engineer specializing in cross-platform and native development across iOS, Android, and the web. Passionate about clean architecture, performant UIs, and shipping products that users love.
 
 ---
 
